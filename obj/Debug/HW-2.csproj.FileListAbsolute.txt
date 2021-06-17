@@ -1,0 +1,6 @@
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/bin/Debug/HW-2.exe
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/bin/Debug/HW-2.pdb
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/obj/Debug/HW-2.csprojAssemblyReference.cache
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/obj/Debug/HW-2.csproj.CoreCompileInputs.cache
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/obj/Debug/HW-2.exe
+/Users/gagarin/SkillBox/C#/HW/HW-2/HW-2/obj/Debug/HW-2.pdb

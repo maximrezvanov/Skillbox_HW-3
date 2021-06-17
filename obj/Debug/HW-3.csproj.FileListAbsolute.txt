@@ -1,0 +1,6 @@
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/bin/Debug/HW-2.exe
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/bin/Debug/HW-2.pdb
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/obj/Debug/HW-3.csprojAssemblyReference.cache
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/obj/Debug/HW-3.csproj.CoreCompileInputs.cache
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/obj/Debug/HW-2.exe
+/Users/gagarin/SkillBox/C#/HW/3/HW-3/obj/Debug/HW-2.pdb
